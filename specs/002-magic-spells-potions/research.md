@@ -1,22 +1,23 @@
-# Research: Integración Narrativa de la Magia
+# Research: Integración Narrativa y Técnica de la Magia
 
 ## Objetivo
-Analizar cómo introducir elementos mágicos (hechizos y pociones) en el contexto de un robot en un planeta abandonado, manteniendo la coherencia con la constitución del proyecto.
+Investigar la mejor forma de integrar hechizos y pociones en un entorno post-tecnológico manteniendo la coherencia con los principios de "Mi Cuento Breve".
 
 ## Hallazgos
 
-### 1. El Conflicto Lógica vs. Magia
-- El robot opera bajo protocolos binarios y sensores precisos.
-- La magia debe presentarse como algo que "desborda" sus sensores (ej. una luz que no tiene espectro electromagnético medible).
-- Esto refuerza la melancolía (incomprensión) y la esperanza (posibilidad de algo nuevo).
+### 1. El Cactus como Catalizador
+- **Decisión**: Todos los ingredientes para pociones provendrán de un cactus solitario que el robot encuentra en el planeta.
+- **Racional**: Establece un punto de referencia emocional y biológico único. El cactus simboliza la resistencia en el desierto metálico. Facilita la "recolección" sensorial.
+- **Alternativas**: Repartir ingredientes por el mapa (rechazado por dispersión narrativa).
 
-### 2. Ingredientes y Componentes
-- Para que la magia se sienta "real" en este mundo, los ingredientes deben ser tangibles.
-- Ejemplo: Una poción de "Óxido de Olvido" o un hechizo de "Pulso de Latón".
+### 2. Hechizos Instantáneos
+- **Decisión**: Los hechizos no tienen tiempo de preparación.
+- **Racional**: Se alinea con la "Estructura de Frase Corta". El efecto debe ser súbito y directo para marcar el ritmo. "Él miró. El metal brilló. La luz se fue."
+- **Alternativas**: Hechizos de preparación larga (rechazado por romper el ritmo de frase corta).
 
-### 3. Impacto en la Estructura
-- El uso de la magia debe describirse en frases cortas para enfatizar su impacto inmediato.
-- "El metal vibró. La luz surgió. No había lógica."
+### 3. Integración de la Constitución
+- La magia debe describirse apelando a los 5 sentidos (vista, oído, tacto, olfato, gusto) para cumplir con el principio de Riqueza Sensorial.
+- El coste de la magia (agotamiento del robot) refuerza la melancolía.
 
 ## Conclusiones
-La magia será tratada como una "tecnología olvidada" o un "fenómeno natural sensible a la emoción". No se requiere un sistema de reglas complejo, sino una integración sensorial.
+La implementación se centrará en la interacción del robot con el cactus (pociones) y en el descubrimiento de efectos súbitos en el entorno (hechizos).

@@ -1,25 +1,23 @@
-# Data Model: Elementos Mágicos
+# Data Model: Elementos Mágicos y Narrativos
 
 ## Entidades
 
-### 1. Hechizo
-- **Nombre**: (Texto) Ej. "Chispa de Ámbar"
-- **Efecto Sensorial**: (Texto) Descripción de luz, sonido o tacto.
-- **Coste**: (Texto) Qué consume el robot o el entorno.
-- **Emoción Asociada**: (Melancolía / Esperanza)
+### 1. Hechizo (Acción Instantánea)
+- **Nombre**: Título en castellano (ej. "Reflejo de Plata").
+- **Activador**: Un gesto o proceso lógico del robot.
+- **Efecto Sensorial**: Descripción inmediata (vista, sonido).
+- **Impacto Emocional**: Transición de melancolía a esperanza (o viceversa).
 
-### 2. Poción
-- **Nombre**: (Texto) Ej. "Elixir de Cables Fríos"
-- **Ingredientes**: (Lista) Elementos del entorno.
-- **Efecto**: (Texto) Cambio en el estado del protagonista.
+### 2. Poción (Sustancia Alquímica)
+- **Nombre**: Título en castellano (ej. "Rocío del Cactus").
+- **Ingredientes**: Provistos exclusivamente por el Cactus (ej. espina, gota de savia).
+- **Efecto**: Cambio físico o mental duradero en el robot.
 
-## Ejemplo de Instancia
+### 3. El Cactus (Entidad Proveedora)
+- **Ubicación**: Única en el planeta abandonado.
+- **Interacción**: El robot debe "ofrecer" algo (tiempo, cuidado) para recibir ingredientes.
 
-```json
-{
-  "tipo": "Hechizo",
-  "nombre": "Canto de Silicio",
-  "sensacion": "Un silbido agudo que templa el metal frío",
-  "emocion": "Esperanza"
-}
-```
+## Relaciones
+- El **Robot** usa **Hechizos** para interactuar con el entorno.
+- El **Robot** recolecta de **El Cactus** para crear **Pociones**.
+- Las **Pociones** potencian la capacidad del **Robot** para encontrar nuevos **Hechizos**.
