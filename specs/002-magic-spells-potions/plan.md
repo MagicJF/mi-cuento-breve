@@ -18,7 +18,7 @@ Implementación de un sistema narrativo de magia sutil y poética. El robot prot
 **Target Platform**: Markdown (GitHub)
 **Project Type**: Prototipo Narrativo
 **Performance Goals**: N/A
-**Constraints**: Estructura de frase corta, < 500 palabras por relato
+**Constraints**: Estructura de frase corta, < 5000 palabras por relato
 **Scale/Scope**: 2-3 hechizos, 1-2 pociones
 
 ## Constitution Check

@@ -35,20 +35,21 @@ Como lector, quiero presenciar el momento en que un robot solitario encuentra vi
 - **FR-003**: Se deben emplear **frases cortas** y directas para marcar el ritmo.
 - **FR-004**: El texto debe incluir **descripciones sensoriales** ricas (textura del metal, luz del sol, color de la flor).
 - **FR-005**: La trama debe centrarse en un robot que encuentra una flor en un planeta abandonado y toma una decisiÃ³n sobre su destino.
-- **FR-006**: La extensiÃ³n total no debe superar las **500 palabras**.
+- **FR-006**: La extensión total no debe superar las **5000 palabras**.
 
 ### Key Entities
 
-- **Robot**: Protagonista, ser de metal y lÃ³gica que se enfrenta a lo desconocido.
-- **Flor**: Elemento orgÃ¡nico, frÃ¡gil y vibrante que simboliza la vida en un entorno muerto.
+- **Robot**: Protagonista, ser de metal y lógica que se enfrenta a lo desconocido.
+- **Flor**: Elemento orgánico, frágil y vibrante que simboliza la vida en un entorno muerto.
 - **Base**: Refugio funcional con sistemas de luz y agua, capaz de sostener vida vegetal.
-- **Planeta Abandonado**: Escenario silencioso, lleno de restos de una civilizaciÃ³n pasada.
+- **Planeta Abandonado**: Escenario silencioso, lleno de restos de una civilización pasada.
 
 ## Success Criteria *(mandatory)*
 
 ### Measurable Outcomes
 
-- **SC-001**: El cuento tiene una extensiÃ³n de entre 200 y 450 palabras.
+- **SC-001**: El cuento tiene una extensión de entre 200 y 4500 palabras.
+
 - **SC-002**: El 100% de las frases contienen menos de 20 palabras (para asegurar la estructura de frase corta).
 - **SC-003**: El texto incluye al menos una referencia a cada uno de los 5 sentidos (vista, oÃdo, tacto, olfato, gusto).
 - **SC-004**: Los lectores identifican un cambio de tono desde la soledad inicial (melancolÃa) hacia un final con significado (esperanza).

@@ -32,4 +32,4 @@
 ## Phase 5: Polish
 
 - [ ] T011 Revisión gramatical y estilística según la constitución
-- [ ] T012 Verificación de la extensión total (< 500 palabras)
+- [ ] T012 Verificación de la extensión total (< 5000 palabras)
