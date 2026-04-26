@@ -1,50 +1,46 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+- Version change: 1.0.0 → 1.0.1
+- List of modified principles:
+  - None (encoding and formatting refinements only)
+- Added sections: None
+- Removed sections: None
+- Templates requiring updates:
+  - .specify/templates/plan-template.md (✅ aligned)
+  - .specify/templates/spec-template.md (✅ aligned)
+  - .specify/templates/tasks-template.md (✅ aligned)
+- Follow-up TODOs: None
+-->
+
+# Mi Cuento Breve Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Idioma Castellano
+El cuento debe ser escrito íntegramente en castellano. Se debe priorizar la corrección gramatical, la fluidez narrativa y la riqueza del léxico propio de este idioma, evitando anglicismos o calcos innecesarios.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Tono Dual (Melancolía y Esperanza)
+La narrativa debe mantener un equilibrio constante entre la melancolía y la esperanza. Cada momento de tristeza, pérdida o añoranza debe ir acompañado de un destello de optimismo, belleza o aprendizaje redentor.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Estructura de Frase Corta
+Se deben utilizar frases cortas y directas. Esta estructura busca marcar un ritmo pausado y facilitar la asimilación de la carga emocional, evitando subordinaciones complejas que distraigan de la esencia del relato.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Riqueza Sensorial
+La descripción debe apelar directamente a los sentidos (vista, oído, tacto, olfato, gusto). El objetivo es sumergir al lector en la atmósfera del cuento a través de detalles tangibles y evocadores.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Brevedad y Concisión
+El cuento debe ser breve por definición. Se debe eliminar cualquier elemento superfluo, personaje secundario innecesario o digresión que no contribuya directamente a la atmósfera sensorial o emocional buscada.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+## Restricciones Técnicas
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+El formato de salida preferente es Markdown para asegurar la portabilidad. La extensión del cuento debe ser manejable, idealmente no superando las 500 palabras, para mantener la intensidad del impacto emocional.
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+## Flujo de Desarrollo
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+Todo proceso de creación o edición del cuento debe comenzar por una validación contra estos principios. Las herramientas de IA y los revisores humanos deben priorizar el mantenimiento del tono y la estructura de frase corta por encima de la expansión narrativa.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+Esta constitución rige todos los artefactos derivados del proyecto "Mi Cuento Breve". Cualquier enmienda a estos principios requiere una justificación basada en la evolución de la visión narrativa y debe ser reflejada en los planes de implementación y especificaciones.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.1 | **Ratified**: 2026-04-22 | **Last Amended**: 2026-04-26
