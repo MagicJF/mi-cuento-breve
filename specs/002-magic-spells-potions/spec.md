@@ -40,9 +40,10 @@ Como lector, quiero entender que la magia no es infinita o gratuita para mantene
 
 - **FR-001**: El sistema de magia debe expresarse íntegramente en **castellano** (ej. nombres de hechizos, descripción de efectos).
 - **FR-002**: Los hechizos deben tener efectos **sensoriales** tangibles (luz, sonido, temperatura).
-- **FR-003**: Las pociones deben requerir **ingredientes** que evoquen elementos del entorno (metálicos, naturales o emocionales).
+- **FR-003**: Las pociones deben requerir **ingredientes** proporcionados por un cactus que evoquen elementos del entorno.
 - **FR-004**: La magia debe utilizarse como una herramienta para transitar entre la **melancolía y la esperanza**.
 - **FR-005**: Las descripciones de los actos mágicos deben seguir la **estructura de frase corta**.
+- **FR-006**: La ejecución de hechizos debe ser inmediata, sin tiempos de carga o preparación prolongados.
 
 ### Key Entities
 
@@ -75,3 +76,5 @@ Como lector, quiero entender que la magia no es infinita o gratuita para mantene
 ### Sesión 2026-04-26
 - **Integración Narrativa**: El robot descubre la magia en el planeta abandonado. La magia es tratada como un fenómeno natural pero misterioso que desafía su lógica interna.
 - **Tipo de Magia**: Magia sutil y poética. Los efectos son principalmente atmosféricos y sensoriales, centrados en la transformación del entorno y el estado emocional.
+- **Ciclo de Vida del Hechizo**: Los hechizos son instantáneos. El robot los activa y el efecto ocurre de inmediato, desapareciendo tras cumplir su propósito narrativo.
+- **Origen de los Ingredientes**: Los ingredientes para las pociones son proporcionados siempre por un cactus (un único espécimen o una especie recurrente en el planeta).
