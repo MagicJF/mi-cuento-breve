@@ -70,12 +70,8 @@ Como lector, quiero entender que la magia no es infinita o gratuita para mantene
 - **Fallo del hechizo**: Qué ocurre cuando la magia no funciona como se esperaba por falta de esencia o ingredientes.
 - **Efectos secundarios de las pociones**: El impacto de una poción en un ser no orgánico (si aplica).
 
-## Clarifications [NEEDS CLARIFICATION]
+## Clarifications
 
-### Q1: Integración Narrativa
-**Context**: "quiero que haya magia, hechizos y pociones"
-**What we need to know**: [NEEDS CLARIFICATION: ¿Cómo debe integrarse la magia con la historia existente del robot? ¿Es un robot que descubre la magia, o es un mundo puramente fantástico?]
-
-### Q2: Tipo de Magia
-**Context**: "hechizos y pociones"
-**What we need to know**: [NEEDS CLARIFICATION: ¿La magia debe ser sutil y poética o explícita y poderosa (estilo RPG)?]
+### Sesión 2026-04-26
+- **Integración Narrativa**: El robot descubre la magia en el planeta abandonado. La magia es tratada como un fenómeno natural pero misterioso que desafía su lógica interna.
+- **Tipo de Magia**: Magia sutil y poética. Los efectos son principalmente atmosféricos y sensoriales, centrados en la transformación del entorno y el estado emocional.
